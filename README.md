@@ -1,4 +1,4 @@
-# SimpleCalculatorinC# Calculator Application
+# Calculator Application
 
 ## Introduction
 This project is a comprehensive calculator application designed to perform a variety of mathematical operations. The main objective is to provide users with a simple yet powerful tool for basic and advanced calculations. The application supports various functions, including arithmetic operations, trigonometric functions, and exponential calculations.
